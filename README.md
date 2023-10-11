@@ -5,7 +5,7 @@ O projeto foi usado React.Js e Tailwind CSS.
 
 ### `Descrição`
 
-Projeto foi instalado Create React App e também por npm os pacotes node. 
+Projeto foi instalado npx create-react-app e também por npm os pacotes node. 
 Utilizando no Css a biblioteca TailWind que hoje facilita muito a produtividade.
 Se trata da Home page de um e-commerce com várias opções de escolha para compra.  
 .
