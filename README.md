@@ -1,15 +1,12 @@
-# Home page de uma Loja virtual em React.Js 
+# Home page of an online store in React.Js 
+The project was built with React.Js and Tailwind CSS.
+### `Description`
+The project was installed using npx create-react-app and also using npm the node packages.
+Using the TailWind library in CSS, which greatly facilitates productivity today.
+This is the home page of an e-commerce site with several options to choose from for purchasing.
 
-O projeto foi usado React.Js e Tailwind CSS. 
 
-
-### `Descrição`
-
-Projeto foi instalado npx create-react-app e também por npm os pacotes node. 
-Utilizando no Css a biblioteca TailWind que hoje facilita muito a produtividade.
-Se trata da Home page de um e-commerce com várias opções de escolha para compra.  
-.
-.
+[Project Link:](https://loja-virtual-home-react.vercel.app/)
 .
 
 
